@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: http://api.cfl.ca/
 common:
+  - type: DomainSecurity
+    url: security/canadian-football-league-cfl-domain-security.yml
   - type: Website
     url: http://api.cfl.ca/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.cfl.ca/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
